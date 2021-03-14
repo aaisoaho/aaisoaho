@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 -->
 # Other profiles
 
-[My GitLab Account] (https://gitlab.jyu.fi/aakaneis) is used on some projects I do while studying at JYU
+[My GitLab Account](https://gitlab.jyu.fi/aakaneis) is used on some projects I do while studying at JYU
 Most notable projects include the game project we do. My role on the said project is formally Audio Designer and Programmer, 
 but the tasks in practice includes audio designing, composing, audio engineering, game design and developing.
 
