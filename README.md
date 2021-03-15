@@ -6,7 +6,7 @@ I'm currently a MSc. Student at the university of Jyväskylä.
 | --- | --- |
 | Music and sounds in games | Creative writing |
 | Semantic web and linked data | Game project |
-| DevSecOps | Game Technology |
+| [DevSecOps](https://gitlab.jyu.fi/beenary/beemapbeenary) | [Game Technology](https://github.com/aaisoaho/TIES476) |
 | | ... and more |
 
 Now working on (most intense eater of my freetime) an educational game project with a real life customer. My roles on the said project:
