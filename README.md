@@ -7,6 +7,7 @@ I'm currently a MSc. Student at the university of Jyväskylä.
 | Music and sounds in games | Creative writing |
 | Semantic web and linked data | Game project |
 | DevSecOps | Game Technology |
+| | ... and more |
 
 Now working on (most intense eater of my freetime) an educational game project with a real life customer. My roles on the said project:
 Programming and audio design - and the roles include tasks such as: audio design, composing, audio engineering and game design.
