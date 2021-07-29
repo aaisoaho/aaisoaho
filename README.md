@@ -2,14 +2,14 @@
 
 I'm currently a MSc. Student at the university of Jyväskylä. 
 
-| Course topics I've finished recently | Topics I study right now |
-| --- | --- |
-| Music and sounds in games | Creative writing |
-| Semantic web and linked data | Game project |
-| [DevSecOps](https://gitlab.jyu.fi/beenary/beemapbeenary) | [Game Technology](https://github.com/aaisoaho/TIES476) |
-| | ... and more |
 
-Now working on (most intense eater of my freetime) an educational game project with a real life customer. My roles on the said project:
+Finished course topics in the near past:
+
+- Music and sounds in games
+- [Game Technology](https://github.com/aaisoaho/TIES476)
+- Game project with a real life customer
+
+Worked on an [educational game project](https://www.youtube.com/watch?v=8cundkYVs_Q) with a real life customer. My roles on the said project:
 Programming and audio design - and the roles include tasks such as: audio design, composing, audio engineering and game design.
 
 # Other profiles
