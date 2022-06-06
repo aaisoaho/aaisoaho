@@ -2,10 +2,12 @@
 
 I'm currently a MSc. Student at the university of Jyväskylä. 
 
+I wrote my master's thesis on the subject of Software Developers' Playfulness, motivation and work atmosphere. The thesis can be found at [JYX](https://jyx.jyu.fi/handle/123456789/80955) and it is only available in Finnish. 
 
 Finished course topics in the near past:
 
 - Music and sounds in games
+- Psychology of Play and Games
 - [Game Technology](https://github.com/aaisoaho/TIES476)
 - Game project with a real life customer
 
