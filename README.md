@@ -18,3 +18,7 @@ Programming and audio design - and the roles include tasks such as: audio design
 On DevOps course I was a part of a group assigned to create an interactive beemap web app. To gain access to the source code of the said project, contact me.
 
 You can find some small game projects I've done also from the repository [Game Technology](https://github.com/aaisoaho/TIES476). These projects were done as a part of Game Technology course for the University of Jyväskylä. 
+
+## Badges
+
+[![Networking Essentials badge from Cisco](https://images.credly.com/size/340x340/images/d7f73336-9adb-4833-a602-761837a33ba3/NetworkingEssentials-01.png)](https://www.credly.com/badges/fd5c5555-0a5a-40f3-bc73-1b2c8b09a712/public_url)
